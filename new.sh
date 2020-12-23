@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     HarsTim Azerbaijan🇦🇿 TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
@@ -258,6 +258,6 @@ sleep 2
 echo $ku"WhatsApp :"$i" 085835787069"
 echo $ku"Facebook :"$i" Riski Darmawan"
 sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> HarsTim Hack Azerbaijan 🇦🇿 <<"
 exit
 fi
